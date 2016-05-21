@@ -30,9 +30,3 @@ Dir.foreach(File.dirname(__FILE__)) do |fname|
   
 end
 
-
-'''
-softmax 
-reduce mean
-graph and its use
-'''
